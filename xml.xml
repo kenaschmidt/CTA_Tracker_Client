@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+-<ctatt>
+
+	<tmst>20240319 14:05:36</tmst>
+
+	<errCd>0</errCd>
+
+	<errNm/>
+
+
+	-<eta>
+
+		<staId>40380</staId>
+
+		<stpId>30074</stpId>
+
+		<staNm>Clark/Lake</staNm>
+
+		<stpDe>Service at Inner Loop platform</stpDe>
+
+		<rn>309</rn>
+
+		<rt>Pink</rt>
+
+		<destSt>30114</destSt>
+
+		<destNm>54th/Cermak</destNm>
+
+		<trDr>5</trDr>
+
+		<prdt>20240319 14:05:13</prdt>
+
+		<arrT>20240319 14:07:13</arrT>
+
+		<isApp>0</isApp>
+
+		<isSch>0</isSch>
+
+		<isDly>0</isDly>
+
+		<isFlt>0</isFlt>
+
+		<flags/>
+
+		<lat>41.8857</lat>
+
+		<lon>-87.64069</lon>
+
+		<heading>89</heading>
+
+	</eta>
+
+
+	-<eta>
+
+		<staId>40380</staId>
+
+		<stpId>30074</stpId>
+
+		<staNm>Clark/Lake</staNm>
+
+		<stpDe>Service at Inner Loop platform</stpDe>
+
+		<rn>013</rn>
+
+		<rt>G</rt>
+
+		<destSt>30139</destSt>
+
+		<destNm>Cottage Grove</destNm>
+
+		<trDr>5</trDr>
+
+		<prdt>20240319 14:05:10</prdt>
+
+		<arrT>20240319 14:08:10</arrT>
+
+		<isApp>0</isApp>
+
+		<isSch>0</isSch>
+
+		<isDly>0</isDly>
+
+		<isFlt>0</isFlt>
+
+		<flags/>
+
+		<lat>41.88558</lat>
+
+		<lon>-87.65219</lon>
+
+		<heading>89</heading>
+
+	</eta>
+
+
+	-<eta>
+
+		<staId>40380</staId>
+
+		<stpId>30075</stpId>
+
+		<staNm>Clark/Lake</staNm>
+
+		<stpDe>Service at Outer Loop platform</stpDe>
+
+		<rn>607</rn>
+
+		<rt>G</rt>
+
+		<destSt>30004</destSt>
+
+		<destNm>Harlem/Lake</destNm>
+
+		<trDr>1</trDr>
+
+		<prdt>20240319 14:05:04</prdt>
+
+		<arrT>20240319 14:09:04</arrT>
+
+		<isApp>0</isApp>
+
+		<isSch>0</isSch>
+
+		<isDly>0</isDly>
+
+		<isFlt>0</isFlt>
+
+		<flags/>
+
+		<lat>41.8736</lat>
+
+		<lon>-87.62679</lon>
+
+		<heading>358</heading>
+
+	</eta>
+
+
+	-<eta>
+
+		<staId>40380</staId>
+
+		<stpId>30074</stpId>
+
+		<staNm>Clark/Lake</staNm>
+
+		<stpDe>Service at Inner Loop platform</stpDe>
+
+		<rn>706</rn>
+
+		<rt>Org</rt>
+
+		<destSt>30182</destSt>
+
+		<destNm>Midway</destNm>
+
+		<trDr>5</trDr>
+
+		<prdt>20240319 14:05:19</prdt>
+
+		<arrT>20240319 14:09:19</arrT>
+
+		<isApp>0</isApp>
+
+		<isSch>0</isSch>
+
+		<isDly>0</isDly>
+
+		<isFlt>0</isFlt>
+
+		<flags/>
+
+		<lat>41.87734</lat>
+
+		<lon>-87.63369</lon>
+
+		<heading>357</heading>
+
+	</eta>
+
+
+	-<eta>
+
+		<staId>40380</staId>
+
+		<stpId>30375</stpId>
+
+		<staNm>Clark/Lake</staNm>
+
+		<stpDe>Subway service toward O'Hare</stpDe>
+
+		<rn>212</rn>
+
+		<rt>Blue</rt>
+
+		<destSt>30171</destSt>
+
+		<destNm>O'Hare</destNm>
+
+		<trDr>1</trDr>
+
+		<prdt>20240319 14:05:12</prdt>
+
+		<arrT>20240319 14:11:12</arrT>
+
+		<isApp>0</isApp>
+
+		<isSch>0</isSch>
+
+		<isDly>0</isDly>
+
+		<isFlt>0</isFlt>
+
+		<flags/>
+
+		<lat>41.87554</lat>
+
+		<lon>-87.64098</lon>
+
+		<heading>88</heading>
+
+	</eta>
+
+</ctatt>
