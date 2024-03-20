@@ -68,7 +68,7 @@ namespace CTA_Tracker_Client
             return response;
         }
 
-        public async Task<Response> RequestUpdateByPlatformID(ushort stopId, int? maxResults = null, RouteColor? routeCode = null)
+        public async Task<Response> RequestUpdateByStopID(ushort stopId, int? maxResults = null, RouteColor? routeCode = null)
         {
             var reqStr = $"?key={APIKey}&stpid={stopId}";
 
